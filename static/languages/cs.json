@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik zeleně je ve městech EU?",
+  "subtitle": "Městské zelené plochy pokrývaly v roce 2021 průměrně 7,2 % plochy hlavních měst EU.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Městská zeleň je veřejně přístupná oblast pokrytá vegetací, jako je tráva, stromy a rostliny, která poskytuje příležitosti k rekreaci, ochraně přírody a přirozenému ochlazování.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Evropská agentura pro životní prostředí",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltipExtraInfoLabel": "Klikněte zde"
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltipExtraInfoLabel": "Klikněte zde",
+  "customUnitLabel": "městské oblasti"
 }
