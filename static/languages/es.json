@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuánto espacio verde hay en las ciudades de la UE?",
+  "subtitle": "Los espacios verdes urbanos cubrían una media del 7,2% de la superficie de las capitales de la UE en 2021.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Los espacios verdes urbanos son áreas de acceso público cubiertas de vegetación, como césped, árboles y plantas, que brindan oportunidades de recreación, conservación y enfriamiento natural.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Agencia Europea de Medio Ambiente",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "tooltipExtraInfoLabel": "haga clic aquí",
+  "customUnitLabel": "del área de la ciudad"
 }
