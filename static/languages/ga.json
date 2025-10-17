@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad spáis ghlasa atá i gcathracha an AE?",
+  "subtitle": "Chlúdaigh spásanna glasa uirbeacha meán de 7.2% d'achar phríomhchathracha an AE in 2021.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Is limistéir inrochtana ag an bpobal iad spásanna glasa uirbeacha atá clúdaithe le fásra, amhail féar, crainn agus plandaí, a sholáthraíonn deiseanna le haghaidh caitheamh aimsire, caomhnaithe agus fuaraithe nádúrtha.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Gníomhaireacht Chomhshaoil Eorpach",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
+  "customUnitLabel": "de cheantar na cathrach"
 }
