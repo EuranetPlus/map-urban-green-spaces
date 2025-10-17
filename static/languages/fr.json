@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien d’espaces verts y a-t-il dans les villes de l’UE ?",
+  "subtitle": "Les espaces verts urbains couvraient en moyenne 7,2 % de la superficie des capitales de l'UE en 2021.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Les espaces verts urbains sont des zones accessibles au public couvertes de végétation, comme de l’herbe, des arbres et des plantes, qui offrent des possibilités de loisirs, de conservation et de refroidissement naturel.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Agence européenne pour l'environnement",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "tooltipExtraInfoLabel": "Cliquez ici",
+  "customUnitLabel": "de la zone urbaine"
 }
