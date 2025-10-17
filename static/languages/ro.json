@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Cât spațiu verde există în orașele UE?",
+  "subtitle": "Spațiile verzi urbane au acoperit în medie 7,2% din suprafața capitalelor UE în 2021.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Spațiile verzi urbane sunt zone accesibile publicului, acoperite cu vegetație, cum ar fi iarbă, copaci și plante, care oferă oportunități pentru recreere, conservare și răcorire naturală.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Agenția Europeană de Mediu",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
-  "tooltipExtraInfoLabel": "Click aici"
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
+  "customUnitLabel": "din zona orașului"
 }
