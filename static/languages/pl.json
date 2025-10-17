@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile jest terenów zielonych w miastach UE?",
+  "subtitle": "Tereny zielone w miastach zajmowały średnio 7,2% powierzchni stolic państw UE w 2021 r.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Miejskie tereny zielone to ogólnodostępne obszary pokryte roślinnością, taką jak trawa, drzewa i inne rośliny, które zapewniają możliwości rekreacji, ochrony środowiska i naturalnego chłodzenia.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Europejska Agencja Środowiska",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
+  "customUnitLabel": "obszaru miasta"
 }
