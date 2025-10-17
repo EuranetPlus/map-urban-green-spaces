@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How much green space is there in EU cities?",
+  "subtitle": "Urban green spaces covered an average of 7.2% of the area of the EU's capital cities in 2021.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Urban green spaces are publicly accessible areas covered in vegetation, such as grass, trees, and plants, that provide opportunities for recreation, conservation, and natural cooling.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "European Environment Agency",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
-  "tooltipExtraInfoLabel": "Click here"
+  "tooltipExtraInfoLabel": "Click here",
+  "customUnitLabel": "of city area"
 }
