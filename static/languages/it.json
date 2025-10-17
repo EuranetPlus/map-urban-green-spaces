@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quanti spazi verdi ci sono nelle città dell'UE?",
+  "subtitle": "Nel 2021 gli spazi verdi urbani coprivano in media il 7,2% della superficie delle capitali dell'UE.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Gli spazi verdi urbani sono aree accessibili al pubblico ricoperte di vegetazione, come erba, alberi e piante, che offrono opportunità di svago, conservazione e raffrescamento naturale.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Agenzia europea dell'ambiente",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "tooltipExtraInfoLabel": "clicca qui",
+  "customUnitLabel": "dell'area cittadina"
 }
