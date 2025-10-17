@@ -1,13 +1,12 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viel Grünflächen gibt es in EU-Städten?",
+  "subtitle": "Städtische Grünflächen bedeckten im Jahr 2021 durchschnittlich 7,2 % der Fläche der EU-Hauptstädte.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Städtische Grünflächen sind öffentlich zugängliche, mit Vegetation wie Gras, Bäumen und Pflanzen bedeckte Bereiche, die Möglichkeiten zur Erholung, zum Naturschutz und zur natürlichen Abkühlung bieten.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
+  "textSource": "Europäische Umweltagentur",
   "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "tooltipExtraInfoLabel": "klicken Sie hier",
+  "customUnitLabel": "des Stadtgebiets"
 }
